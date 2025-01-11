@@ -10,7 +10,7 @@ ps: the backend is hosted by heroku, so just wait a bit for api response
 
 **1 - Clone the project:**
 
-    git clone https://github.com/yons101/hotel101-hotel-bookings-laravel-react.git
+    git clone https://github.com/ticu617/hotel101-hotel-bookings-laravel-react.git
     cd hotel101-hotel-bookings-laravel-react
 
 **2 - Install Laravel dependencies**
